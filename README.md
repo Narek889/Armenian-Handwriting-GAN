@@ -4,6 +4,7 @@
 * [Srbuhi Pupuyan](https://github.com/Srbuhi01)
 
 **Institution:** [National Polytechnic University of Armenia].(https://polytech.am/en/home/) 
+
 **Year:** 2026
 
 **An Automated End-to-End System for Synthetic Handwriting Generation and Data Augmentation**
